@@ -3,7 +3,7 @@
 
 ## 安装
 
-> composer require linzc/think-queue-rabbitmq
+> composer require zhinuotech/think-queue-rabbitmq
 
 ## 配置
 
